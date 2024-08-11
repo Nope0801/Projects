@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    printf("NO");
+    printf("Gay");
 }
